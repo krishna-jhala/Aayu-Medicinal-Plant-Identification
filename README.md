@@ -1,1 +1,2 @@
-# Aayu-Medicinal-Plant-Identification
+# AAyu Mobile Application
+
